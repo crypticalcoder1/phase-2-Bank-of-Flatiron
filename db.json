@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "date": "2024-08-05",
+      "description": "dinner",
+      "category": "food",
+      "amount": 100000,
+      "id": 1
+    },
+    {
+      "date": "2024-08-15",
+      "description": "salary",
+      "category": "payment",
+      "amount": 100000,
+      "id": 2
+    },
+    {
+      "date": "2024-08-26",
+      "description": "car",
+      "category": "dealership",
+      "amount": 10000000,
+      "id": 3
+    }
+  ]
+}
